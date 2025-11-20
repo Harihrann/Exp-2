@@ -1,7 +1,7 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
-## Name: RAMYA R
-## Reg No: 212223230169
+## Name: Hariharan S
+## Reg No: 212224040101
 
 # AIM:
 
